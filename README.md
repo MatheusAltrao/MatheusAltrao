@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Front-end Jr
 
-- 🔥  Atualmente sou freelance
+- 🔥  Atualmente sou freelancer
 
 - 👨‍💻 Todos os meu projetos estão disponíveis em  [Portfolio](https://matheusaltrao.github.io/portfolio/)
 
