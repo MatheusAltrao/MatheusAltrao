@@ -16,28 +16,28 @@
 
 ## 🛠 &nbsp;Tecnologias que eu uso
 
-<img width='200px' align="center" alt="HTML5"
+<img width='100px' align="center" alt="HTML5"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-<img width='200px' align="center" alt="Javascript"
+<img width='100px' align="center" alt="Javascript"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<img width='200px' align="center" alt="ReactJS"
+<img width='100px' align="center" alt="ReactJS"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img width='200px' align="center" alt="CSS"
+<img width='100px' align="center" alt="CSS"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-<img width='200px' align="center" alt="TailwindCSS"
+<img width='100px' align="center" alt="TailwindCSS"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
-<img width='200px' align="center" alt="GITHUB"
+<img width='100px' align="center" alt="GITHUB"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img width='200px' align="center" alt="GIT" 
+<img width='100px' align="center" alt="GIT" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img width='200px' align="center" alt="Figma"
+<img width='100px' align="center" alt="Figma"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
