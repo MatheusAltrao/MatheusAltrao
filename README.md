@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Sou formado em Técnico em informática pelo Instituto Federal De Mato Grosso Do Sul, e estou cursando análise e desenvolvimento de sistemas.
 
-- 🕶 Curso: Técnico em Informática e Comunicação,Lógica de Programação,Proteção de Dados e estudo diariamente na [Onebitcode](https://programador.onebitcode.com/)
+- 🕶 Cursos: Técnico em Informática e Comunicação,Lógica de Programação,Proteção de Dados.
 
 
 
@@ -17,16 +17,29 @@
 ## 🛠 &nbsp;Tecnologias que eu uso
 
 <img align="center" alt="HTML5"
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
 <img align="center" alt="Javascript"
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<img align="center" alt="ReactJS"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="center" alt="CSS"
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<img align="center" alt="TailwindCSS"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
 <img align="center" alt="GITHUB"
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="center" alt="GIT" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="center" alt="Figma"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 <br><br>
 ## &nbsp;Social Links
