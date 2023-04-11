@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Front-end Jr
 
-- 🔥  Atualmente sou freelancer
+- 🔥 Trabalho na  [YouDevelop](https://youdevelop.app/)
 
 - 👨‍💻 Todos os meu projetos estão disponíveis em  [Portfolio](https://matheusaltrao.github.io/portfolio/)
 
