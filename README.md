@@ -8,9 +8,6 @@
 
 - 👨‍🎓 Sou formado em Técnico em informática pelo Instituto Federal De Mato Grosso Do Sul, e estou cursando análise e desenvolvimento de sistemas.
 
-- 🕶 Cursos: Técnico em Informática e Comunicação,Lógica de Programação,Proteção de Dados.
-
-
 
 <br><br>
 
