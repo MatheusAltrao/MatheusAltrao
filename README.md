@@ -1,48 +1,26 @@
-<h1> Salveeeee! Eu sou o Matheus Altrão<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Opa! Eu sou o Matheus Altrão<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 💻 Desenvolvedor Front-end Jr
+- 💻 Desenvolvedor Front-end
 
 - 🔥 Trabalho na  [YouDevelop](https://youdevelop.app/)
 
-- 👨‍💻 Todos os meu projetos estão disponíveis em  [Portfolio](https://myportfolio-omega-nine.vercel.app/)
+- 👨‍💻 Todos os meu projetos estão disponíveis em  [Portfolio](https://www.matheusaltrao.dev/) 
 
 - 👨‍🎓 Sou formado em Técnico em informática pelo Instituto Federal De Mato Grosso Do Sul, e estou cursando análise e desenvolvimento de sistemas.
 
+## 🚀 Minhas Skills
 
-<br><br>
 
-## 🛠 &nbsp;Tecnologias que eu uso
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 
-<img width='100px' align="center" alt="HTML5"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img width='100px' align="center" alt="Javascript"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img width='100px' align="center" alt="ReactJS"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img width='100px' align="center" alt="CSS"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img width='100px' align="center" alt="TailwindCSS"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-
-<img width='100px' align="center" alt="GITHUB"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img width='100px' align="center" alt="GIT" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img width='100px' align="center" alt="Figma"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
 <br><br>
 ## &nbsp;Social Links
 
 [<img align="center" alt="INSTAGRAM"
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matheusaltrao_dev/)
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matheus_altrao/)
 
 [<img align="center" alt="LINKEDIN"
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-altrao/)
