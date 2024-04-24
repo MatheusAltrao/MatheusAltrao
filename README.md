@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Front-end
 
-- 🔥 Trabalho na  [YouDevelop](https://youdevelop.app/)
+- 🔥 Trabalhando como Desenvolvedor Web
 
 - 👨‍💻 Todos os meu projetos estão disponíveis em  [Portfolio](https://www.matheusaltrao.dev/) 
 
