@@ -33,21 +33,29 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 
 <br><br>
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMatheusaltrao&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMatheusaltrao&s=50&c=38bdf8&bg=00000000&no=7&ff=digi&tb=Visitantes%3A++&ta=" /></p> 
 <br>
+
+<br><br>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Matheusaltrao&show_icons=true&theme=synthwave" alt="Matheus Altrão"/>
-  
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusaltrao&layout=compact&theme=synthwave" alt="Matheus Altrão"/>
-</p>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAltrao&theme=react&hide_border=true" width="520"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusAltrao&theme=react&show_icons=true&hide_border=true&count_private=true" width="520"/>
+    </td>
+  </tr>
+</table>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAltrao&theme=react&show_icons=true&hide_border=true&layout=compact" width="1100"/>
 
 
 
