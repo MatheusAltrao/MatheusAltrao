@@ -1,6 +1,6 @@
 <h1> Opa! Eu sou o Matheus Altrão<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-🎓 Sobre mim:
+🎓 Sobre mim: <br>
 📚 Formado em TI pelo Instituto Federal de Mato Grosso do Sul (IFMS) e atualmente cursando Análise e Desenvolvimento de Sistemas.
 💻 Desenvolvedor Web, apaixonado por criar soluções elegantes e eficazes.
 
