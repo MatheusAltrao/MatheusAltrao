@@ -31,5 +31,5 @@ Análise e Métricas: Google Analytics<br>
 ### 📫 Entre em contato:<br>
 💬 Sinta-se à vontade para entrar em contato para colaborações ou apenas para bater um papo sobre tecnologia!<br>
 📧 Envie um email para matheusaltrao2@gmail.com<br>
-🔗 Perfil no [LinkedIn](https://www.linkedin.com/in/matheus-altrao/).
-👉 [Portfolio]([https://www.linkedin.com/in/matheus-altrao/](https://www.matheusaltrao.dev/)).
+🔗 Perfil no [LinkedIn](https://www.linkedin.com/in/matheus-altrao/).<br>
+👉 [Portfolio](https://www.matheusaltrao.dev/).
