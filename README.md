@@ -7,7 +7,7 @@
 ### 👨‍💻 Interesses profissionais: <br>
 🖥️ Fascinado por tudo que envolve ciência da computação, com foco em algoritmos e estruturas de dados.<br>
 📱 Desenvolvendo aplicações web e soluções full stack que sejam intuitivas e impactantes.<br>
-🛠️ Explorando continuamente novas tecnologias.<br>
+🖱️ Explorando continuamente novas tecnologias.<br>
 
 ### 🛠️ Tecnologias que utilizo:<br>
 Front-end: HTML, CSS, SASS, Tailwind CSS, JavaScript, TypeScript, ReactJS, Next.js, Remix JS<br>
