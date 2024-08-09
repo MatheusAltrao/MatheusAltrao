@@ -17,7 +17,7 @@ Design e Usabilidade: UI/UX, Figma<br>
 Metodologias e Ferramentas de Gestão:Jira, Clickup<br>
 Testes:Jest<br>
 Metodologias Ágeis: Scrum, Kanban<br>
-Ferramentas de Projeto: Jira, Slack<br>
+Ferramentas de Projeto: Jira, Slack, Clickup<br>
 Análise e Métricas: Google Analytics<br>
 
 ### 🌱 O que estou fazendo atualmente:<br>
