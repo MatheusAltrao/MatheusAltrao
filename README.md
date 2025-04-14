@@ -14,10 +14,9 @@ Front-end: HTML, CSS, SASS, Tailwind CSS, JavaScript, TypeScript, React JS, Next
 Back-end e Full Stack: Node.js, Firebase, MongoDB, Supabase, Docker, Prisma, Axios<br>
 Ferramentas e Plataformas: Git, GitHub<br>
 Design e Usabilidade: UI/UX, Figma<br>
-Metodologias e Ferramentas de Gestão: Jira, Clickup<br>
-Testes: Jest<br>
+Ferramentas de Gestão: Jira, Clickup,Slack, Plane<br>
+Testes: Jest, cypress<br>
 Metodologias Ágeis: Scrum, Kanban<br>
-Ferramentas de Projeto: Jira, Slack, Clickup<br>
 Análise e Métricas: Google Analytics<br>
 
 ### 🌱 O que estou fazendo atualmente:<br>
