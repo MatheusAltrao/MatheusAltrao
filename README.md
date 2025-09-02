@@ -17,7 +17,7 @@ Design e Usabilidade: UI/UX, Figma<br>
 Ferramentas de Gestão: Jira, Clickup,Slack, Plane<br>
 Testes: Jest, cypress<br>
 Metodologias Ágeis: Scrum, Kanban<br>
-Análise e Métricas: Google Analytics<br>
+Análise e Métricas: Google Analytics, MixPannel<br>
 
 ### 🌱 O que estou fazendo atualmente:<br>
 📖 Aprendendo e aprimorando constantemente minhas habilidades em  Next.js.<br>
