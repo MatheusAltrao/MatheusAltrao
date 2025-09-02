@@ -10,7 +10,7 @@
 🖱️ Explorando continuamente novas tecnologias.<br>
 
 ### 🛠️ Tecnologias que utilizo:<br>
-Front-end: HTML, CSS, SASS, Tailwind CSS, JavaScript, TypeScript, React JS, Next JS <br>
+Front-end: HTML, CSS, SASS, Tailwind CSS, JavaScript, TypeScript, React JS, Next JS, Vue, Nuxt, Remix <br>
 Back-end e Full Stack: Node.js, Firebase, MongoDB, Supabase, Docker, Prisma, Axios<br>
 Ferramentas e Plataformas: Git, GitHub<br>
 Design e Usabilidade: UI/UX, Figma<br>
