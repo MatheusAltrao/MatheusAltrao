@@ -13,14 +13,14 @@ Continuously exploring new technologies.<br>
 
 ### 🛠️ Technologies I use:<br>
 
-Front-end: HTML, CSS, SASS, Tailwind CSS, JavaScript, TypeScript, React JS, Next JS, Vue, Nuxt, Remix<br>
-Back-end and Full Stack: Node.js, Firebase, MongoDB, Supabase, Docker, Prisma, Axios<br>
-Tools and Platforms: Git, GitHub<br>
-Design and Usability: UI/UX, Figma<br>
-Management Tools: Jira, ClickUp, Slack, Plane<br>
-Testing: Jest, Cypress<br>
-Agile Methodologies: Scrum, Kanban<br>
-Analytics and Metrics: Google Analytics, Mixpanel<br>
+Front-end: SASS, Tailwind CSS, JavaScript, TypeScript, ReactJS, Next.js, Redux, Zustand, TanStack Query, Material UI, ShadCN, Vue, Nuxt, Pinia, i18n<br>
+Back-end: Node.js, Firebase, MongoDB, Supabase, Docker, Prisma, Drizzle, Express<br>
+Architecture: SOLID, Clean Code, Clean Architecture, Design Systems, Componentization, Custom Hooks<br>
+Testing: Jest, React Testing Library<br>
+Design and Usability: UI/UX, Figma, Prototyping<br>
+Methodologies and Management: Scrum, Kanban, Jira, Slack, ClickUp, Trello, Plane<br>
+Analytics and Metrics: Google Analytics, Google Tag Manager, Mixpanel, Clarity<br>
+AI: Cursor, ChatGPT, Copilot, Stitch<br>
 
 ### 🌱 What I'm currently doing:<br>
 
