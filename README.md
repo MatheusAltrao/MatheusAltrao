@@ -2,8 +2,7 @@
 
 ### 🎓 About me
 
-Graduated in IT from the Federal Institute of Mato Grosso do Sul (IFMS) and graduated in Systems Analysis and Development.<br>
-Web Developer, passionate about creating elegant and effective solutions.<br>
+Graduated in Information Technology from the Federal Institute of Mato Grosso do Sul (IFMS) and in Systems Analysis and Development. Currently pursuing a postgraduate degree in Front-end Engineering at FIAP.<br>
 
 ### 👨‍💻 Professional interests:<br>
 
